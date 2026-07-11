@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title9167">Gnome Symbolic Icon Theme</title>
+ <g id="g3407" transform="matrix(-1 0 0 1 15.861 -.24352)">
+  <g id="g3386" transform="translate(-1.1494 -.033859)" fill="#bebebe">
+   <path id="path4409" d="m2.7919 4.3051c0.14846 8e-3 0.29391 0.0592 0.41847 0.15625l4.1847 3c0.23635 0.17971 0.36616 0.51173 0.36616 0.84375s-0.12981 0.66404-0.36616 0.84375l-4.1847 3c-0.12456 0.097-0.27002 0.14825-0.41847 0.15625h-0.13077-0.70617v-8h0.70617z" color="#000000" style="block-progression:tb;text-indent:0;text-transform:none"/>
+   <path id="path4409-4" d="m8.7982 4.305c0.14846 8e-3 0.29391 0.0592 0.41847 0.15625l4.1847 3c0.23635 0.17971 0.36616 0.51173 0.36616 0.84375s-0.12981 0.66404-0.36616 0.84375l-4.1847 3c-0.12456 0.097-0.27002 0.14825-0.41847 0.15625h-0.13077-0.70617v-8h0.70617z" color="#000000" style="block-progression:tb;text-indent:0;text-transform:none"/>
+  </g>
+  <g id="g3398" transform="matrix(1 0 0 .85694 23.253 -3.3397)">
+   <path id="path3807-1-1-9-3-0-98" d="m-10.339 9.4915v8h2v-8z" color="#000000" fill="#bebebe" style="block-progression:tb;text-indent:0;text-transform:none"/>
+   <g id="layer12" transform="matrix(.2007 0 0 .13562 -51.084 -58.859)">
+    <path id="path4646-0" d="m208 499.02c-2.7496 0-4.9825 2.2329-4.9825 4.9825s2.2329 4.9825 4.9825 4.9825 4.9825-2.2329 4.9825-4.9825-2.2329-4.9825-4.9825-4.9825z" color="#bebebe" fill="#bebebe" style="text-indent:0pt;text-transform:none"/>
+   </g>
+   <g id="layer12-3" transform="matrix(.2007 0 0 .14644 -51.081 -56.327)">
+    <path id="path4646-0-6" d="m208 499.02c-2.7496 0-4.9825 2.2329-4.9825 4.9825s2.2329 4.9825 4.9825 4.9825 4.9825-2.2329 4.9825-4.9825-2.2329-4.9825-4.9825-4.9825z" color="#bebebe" fill="#bebebe" style="text-indent:0pt;text-transform:none"/>
+   </g>
+  </g>
+ </g>
+</svg>

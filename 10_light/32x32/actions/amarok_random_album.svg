@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg7" width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata11">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs3">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+ </defs>
+ <g id="g835" transform="matrix(.65 0 0 .65 .4 .75)" enable-background="new">
+  <g id="layer9" transform="translate(-481 255)">
+   <g id="g829" transform="matrix(2.6667 0 0 2.7143 -800.33 354.57)" fill="#555">
+    <path id="path4544-6" d="m482-220v2h4c0.5713 0 1 0.4287 1 1v4c0 1.6447 1.3553 3 3 3h5v-2h-5c-0.5713 0-1-0.4287-1-1v-4c0-1.6447-1.3553-3-3-3z" color="#555555"/>
+    <path id="path4544-1-5" d="m490-220c-0.22957 0-0.44085 0.0438-0.65625 0.0937 0.4813 0.5511 0.86125 1.1776 1.0312 1.9062h4.625v-2h-5zm-8 10h4c0.22957 0 0.44085-0.0438 0.65625-0.0937-0.4813-0.55115-0.86125-1.1777-1.0312-1.9063h-3.625z" color="#555555"/>
+    <path id="path3003-08" d="m493-222v6l4-3z"/>
+    <path id="path3773" d="m493-214v6l4-3z"/>
+   </g>
+  </g>
+ </g>
+ <path id="path39797" d="m6.25 14.4c-1.7839 0-3.25 1.4661-3.25 3.25s1.4661 3.25 3.25 3.25c1.7839 0 3.25-1.4661 3.25-3.25s-1.4661-3.25-3.25-3.25zm0 2.3214c0.51009 0 0.92857 0.41848 0.92857 0.92857 0 0.51008-0.41848 0.92857-0.92857 0.92857-0.51009 0-0.92857-0.41849-0.92857-0.92857 0-0.51009 0.41848-0.92857 0.92857-0.92857z" color="#bebebe" fill="#555" filter="url(#filter7554)" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+</svg>

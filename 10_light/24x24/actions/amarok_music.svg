@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" width="24" height="24" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" color-interpolation-filters="sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer14" transform="translate(-665 359)">
+  <path id="path7442" d="m672.71-357v1.4286 10.268c-0.4521-0.16217-0.92067-0.26786-1.4286-0.26786-2.3669 0-4.2857 1.9188-4.2857 4.2857s1.9188 4.2857 4.2857 4.2857 4.2857-1.9188 4.2857-4.2857v-10h8.5714v5.9822c-0.4521-0.16217-0.92067-0.26786-1.4286-0.26786-2.3669 0-4.2857 1.9188-4.2857 4.2857s1.9188 4.2857 4.2857 4.2857 4.2857-1.9188 4.2857-4.2857v-15.714h-1.4286z" fill="#555"/>
+ </g>
+</svg>

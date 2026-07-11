@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" color-interpolation-filters="sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer12" transform="translate(-425 39.016)">
+  <path id="path8675" d="m440.5-31.016h-1.875c0-2.7625-1.7488-5.0837-4.1308-5.7814-0.0296-9e-3 -0.0582-0.02301-0.0878-0.0312-0.23923-0.0655-0.48201-0.0934-0.73242-0.125-0.2187-0.02761-0.44818-0.06251-0.67383-0.06251-0.57777 6.36e-4 -1.1521 0.0951-1.6992 0.28125v0.0312c-0.78899 0.26706-1.5128 0.69433-2.1094 1.2813l1.1133 1.5938c0.47062-0.51325 1.0857-0.84638 1.7578-1.0313v-0.03121c0.35637-0.0893 0.74027-0.12172 1.1133-0.0937 0.17044 0.0128 0.32746 0.0286 0.49805 0.0625 1.7504 0.33782 3.0762 1.9418 3.0762 3.9063h-1.875l2.8125 4.0001 2.8125-4.0001zm-3.6914 4.4063-1.1133-1.5938c-0.47062 0.51325-1.0857 0.84638-1.7578 1.0313v0.03119c-0.35636 0.0893-0.74026 0.12172-1.1133 0.0937-0.17044-0.0128-0.32746-0.0286-0.49805-0.06251-1.7504-0.33782-3.0762-1.9418-3.0762-3.9063h1.875l-2.8125-4.0001-2.8125 4.0001h1.875c0 2.7625 1.7488 5.0837 4.1308 5.7814 0.0302 9e-3 0.0575 0.0229 0.0878 0.0312 0.23924 0.0655 0.48201 0.0934 0.73242 0.125 0.2187 0.02761 0.44818 0.06251 0.67383 0.06251 0.57778-6.37e-4 1.1521-0.0951 1.6992-0.28126v-0.0312c0.78899-0.26706 1.5128-0.69433 2.1094-1.2813z" enable-background="new" fill="#555"/>
+ </g>
+</svg>

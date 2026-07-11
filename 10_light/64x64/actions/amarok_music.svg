@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" width="64" height="64" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" color-interpolation-filters="sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer14" transform="translate(-665 399)">
+  <path id="path7442" d="m685-395v4 28.75c-1.2659-0.45409-2.5779-0.75-4-0.75-6.6274 0-12 5.3726-12 12 0 6.6274 5.3726 12 12 12 6.6274 0 12-5.3726 12-12v-28h24v16.75c-1.2659-0.45409-2.5779-0.75-4-0.75-6.6274 0-12 5.3726-12 12 0 6.6274 5.3726 12 12 12 6.6274 0 12-5.3726 12-12v-44h-4z" fill="#555"/>
+ </g>
+</svg>

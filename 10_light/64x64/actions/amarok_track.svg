@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg7384" width="64" height="64" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Paper Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title8473">Paper Symbolic Icon Theme</title>
+ <defs id="defs7386">
+  <filter id="filter7554" color-interpolation-filters="sRGB">
+   <feBlend id="feBlend7556" in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g id="layer14" transform="translate(-665 399)" fill="#555">
+  <path id="path5092" d="m711.7-365.6c-7.3454 0-13.3 5.9546-13.3 13.3 0 7.3454 5.9546 13.3 13.3 13.3 7.3454 0 13.3-5.9546 13.3-13.3 0-7.3454-5.9546-13.3-13.3-13.3zm-1.9 3.8h3.8v19h-3.8v-13.3h-3.8v-1.9c3.8 0 3.8-3.8 3.8-3.8z" color="#555555" enable-background="new" stroke-width="7.6"/>
+  <path id="path7442" d="m684.24-395v31.057c-1.2056-0.43246-2.4529-0.71353-3.8073-0.71353-6.3118 0-11.43 5.1153-11.43 11.427 0 6.3118 5.1179 11.43 11.43 11.43 6.3118 0 11.427-5.1179 11.427-11.43v-26.667h23.733v12.589c3.0319 0.79262 5.6872 2.5169 7.6198 4.8672v-32.559z"/>
+ </g>
+</svg>
